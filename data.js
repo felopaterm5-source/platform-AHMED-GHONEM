@@ -7,3 +7,4 @@ const LESSONS = [
   { sec: "diff", title: "ورقة تسميع الحصة 1", kind: "pdf", url: "files/diff1.pdf", date: "السبت ٢٤ أكتوبر" },
   { sec: "dyn", title: "الحصة 1 - الحركة (يوتيوب)", kind: "link", url: "https://youtube.com/", date: "الأحد ٢٥ أكتوبر" }
 ];
+  { sec: "diff", title: "الاشتقاق 1", kind: "video", url: "https://t.me/ghonim2005/6", date: "الاثنين، ٢٦ أكتوبر" },
